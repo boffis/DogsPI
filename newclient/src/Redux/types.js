@@ -1,0 +1,6 @@
+export const FILTER_TEMPER = "FILTER_TEMPER"
+export const FILTER_SOURCE = "FILTER_SOURCE"
+export const ORDER_ALPH = "ORDER_ALPH"
+export const ORDER_WEIGHT ="ORDER_WEIGHT"
+export const ADD_DOG = "ADD_DOG"
+export const ADD_TEMPERS = "ADD_TEMPERS"
